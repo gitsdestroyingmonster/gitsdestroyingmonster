@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gitsdestroyingmonster
+- 👋 Hi, I’m Devang Singh, studying Production and Industrial Engineering at IIT Delhi.
 - 👀 I’m interested in Data Structure and Algorithms, Web Developement, Competitive Coding.
-- 🌱 I’m currently learning Data Structures and Algorithm
+- 🌱 I’m currently learning Data Structures and Algorithm, Web Developement.
 - 💞️ I’m looking to collaborate on Java related projects, Web-applications.
 - Email me at "devang2000singh@gmail.com" to collaborate.
 <!---
